@@ -6,7 +6,7 @@ require (
 	github.com/block-wallet/assets-go-libs v0.3.4
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.5.0
-	github.com/trustwallet/go-libs v0.4.4
+	github.com/trustwallet/go-libs v0.4.5
 	github.com/trustwallet/go-primitives v0.0.58
 )
 
