@@ -1,8 +1,8 @@
 {
-    "name": "Scroll L1",
+    "name": "Scroll",
     "website": "https://scroll.io/",
     "description": "A native zkEVM Layer 2 Solution for Ethereum.",
-    "explorer": "https://l1scan.scroll.io/",
+    "explorer": "https://l2scan.scroll.io/",
     "research": "https://github.com/scroll-tech",
     "symbol": "TSETH",
     "type": "coin",
@@ -20,6 +20,10 @@
         {
             "name": "blog",
             "url": "https://scroll.io/blog"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/s84eJSdFhn"
         }
     ]
 }
