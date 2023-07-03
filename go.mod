@@ -3,9 +3,9 @@ module github.com/trustwallet/assets
 go 1.18
 
 require (
+	github.com/block-wallet/assets-go-libs v0.3.4
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.7.0
-	github.com/trustwallet/assets-go-libs v0.3.5
 	github.com/trustwallet/go-libs v0.7.3
 	github.com/trustwallet/go-primitives v0.0.76
 )
