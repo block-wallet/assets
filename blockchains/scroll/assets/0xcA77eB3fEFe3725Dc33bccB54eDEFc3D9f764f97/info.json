@@ -2,13 +2,13 @@
   "name": "Dai",
   "website": "http://makerdao.com",
   "description": "Dai is a stable cryptocurrency supported by Maker (MKR). To ensure price stability, Dai minimizes the price volatility against the US dollar, through an incentive structure for its participants.",
-  "explorer": "https://scrollscan.com/token/0xca77eb3fefe3725dc33bccb54edefc3d9f764f97",
+  "explorer": "https://scrollscan.com/token/0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97",
   "research": "https://research.binance.com/en/projects/dai",
   "type": "ERC20",
   "symbol": "DAI",
   "decimals": 18,
   "status": "active",
-  "id": "0xca77eb3fefe3725dc33bccb54edefc3d9f764f97",
+  "id": "0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97",
   "tags": ["defi", "stablecoin"],
   "links": [
     {
