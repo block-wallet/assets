@@ -1,0 +1,11 @@
+{
+  "name": "X1 Test",
+  "website": "https://www.okx.com/x1/docs/getting-started/welcome/welcome-to-x1",
+  "description": "X1 is a ZK L2 network powered by the OKB token and built using Polygon CDK, that offers 100% EVM compatibility, exceptional performance, low fees, and robust security — achieved with seamless integration.",
+  "explorer": "https://www.oklink.com/x1-test",
+  "symbol": "OKB",
+  "rpc_url": "https://testrpc.x1.tech/",
+  "type": "coin",
+  "decimals": 18,
+  "status": "active"
+}
