@@ -12,6 +12,7 @@ import (
 	"github.com/block-wallet/assets-go-libs/validation/list"
 	"github.com/block-wallet/assets-go-libs/validation/tokenlist"
 	"github.com/block-wallet/assets/internal/config"
+	"github.com/block-wallet/assets/internal/info"
 	"github.com/trustwallet/go-primitives/coin"
 )
 
