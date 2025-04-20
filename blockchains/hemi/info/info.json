@@ -1,0 +1,14 @@
+{
+    "name": "Hemi Mainnet",
+    "website": "https://hemi.xyz/",
+    "description": "Hemi Mainnet",
+    "explorer": "https://explorer.hemi.xyz/",
+    "research": "",
+    "symbol": "ETH",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "rpc_url": "https://rpc.hemi.network/rpc",
+    "chainId": 43111,
+    "links": []
+} 

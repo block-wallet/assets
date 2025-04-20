@@ -1,0 +1,14 @@
+{
+    "name": "Reddio Testnet",
+    "website": "https://reddio.com/",
+    "description": "Reddio Testnet",
+    "explorer": "https://reddio-devnet.l2scan.co",
+    "research": "",
+    "symbol": "RED",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "rpc_url": "https://reddio-dev.reddio.com",
+    "chainId": 50341,
+    "links": []
+} 
