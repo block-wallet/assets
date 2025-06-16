@@ -1,0 +1,14 @@
+{
+    "name": "Unit Zero Mainnet",
+    "website": "https://unit0.dev/",
+    "description": "Unit Zero Mainnet",
+    "explorer": "https://explorer.unit0.dev",
+    "research": "",
+    "symbol": "UNIT0",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "rpc_url": "https://rpc.unit0.dev",
+    "chainId": 88811,
+    "links": []
+} 
