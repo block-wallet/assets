@@ -1,0 +1,14 @@
+{
+    "name": "Helios Testnet",
+    "website": "https://helioschainlabs.org/",
+    "description": "Helios blockchain testnet environment for developers to build and test decentralized applications.",
+    "explorer": "https://explorer.helioschainlabs.org",
+    "symbol": "HLS",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "testnet"
+    ],
+    "links": []
+}
