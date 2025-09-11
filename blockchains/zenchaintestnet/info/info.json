@@ -1,0 +1,16 @@
+{
+    "name": "ZenChain Testnet",
+    "website": "https://zenchain.io/",
+    "description": "ZenChain testnet environment.",
+    "explorer": "https://zentrace.io",
+    "symbol": "ZTC",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "testnet"
+    ],
+    "links": []
+}
+
+
